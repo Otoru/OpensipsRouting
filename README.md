@@ -18,6 +18,7 @@ Script básico de roteamento de pacotes SIP utilizando OpenSips.
 - [usrloc](https://opensips.org/html/docs/modules/3.0.x/usrloc.html)
 - [httpd](https://opensips.org/html/docs/modules/3.0.x/httpd.html)
 - [xcap](https://opensips.org/html/docs/modules/3.0.x/xcap.html)
+- [stun](https://opensips.org/html/docs/modules/3.0.x/stun.html)
 - [acc](https://opensips.org/html/docs/modules/3.0.x/acc.html)
 - [sst](https://opensips.org/html/docs/modules/3.0.x/sst.html)
 - [rr](https://opensips.org/html/docs/modules/3.0.x/rr.html)
@@ -26,6 +27,8 @@ Script básico de roteamento de pacotes SIP utilizando OpenSips.
 ## To-Do
 
 - Adicionar suporte do módulo RTPEngine ao banco de dados.
+- Adicionar módule de pike com GeoIP.
+- Adicionar módulo de Rate Limit.
 
 ## Observações
 
